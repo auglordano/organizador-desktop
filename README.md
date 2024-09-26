@@ -1,8 +1,12 @@
 # Organizador de Área de Trabalho
 
-![Organização da Área de Trabalho antes do script](./images/screenshot.png)
+Organização da Área de Trabalho antes do script: 
 
-![Organização da Área de Trabalho depois do script](./images/screenshot.png)
+![desktopa](https://github.com/user-attachments/assets/c3f65b16-d027-4c53-b152-25a98ef6e872)
+
+Organização da Área de Trabalho depois do script:
+
+
 
 ## Sobre o Projeto
 
