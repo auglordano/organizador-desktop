@@ -6,7 +6,7 @@ Organização da Área de Trabalho antes do script:
 
 Organização da Área de Trabalho depois do script:
 
-
+![desktopd](https://github.com/user-attachments/assets/870b83c6-99e6-46ac-b00c-13b7c9fc12e6)
 
 ## Sobre o Projeto
 
